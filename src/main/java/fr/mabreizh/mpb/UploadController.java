@@ -1,8 +1,6 @@
 package fr.mabreizh.mpb;
 
-import io.micronaut.core.async.annotation.SingleResult;
 import io.micronaut.core.async.publisher.Publishers;
-import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.Body;
 import io.micronaut.http.annotation.Controller;
 import io.micronaut.http.annotation.Post;
